@@ -14,8 +14,8 @@ O menu possui as seguintes funcionalidades:
 
 ## Como Utilizar
 
-1. Faça o download do arquivo `menu.bat`.
-2. Execute o arquivo `menu.bat` dando um duplo clique nele.
+1. Faça o download do arquivo `Clear v8.0.bat`.
+2. Execute o arquivo `Clear v8.0.bat` dando um duplo clique nele.
 3. Será exibido um menu com as opções numeradas.
 4. Digite o número correspondente à opção desejada e pressione Enter.
 
@@ -41,6 +41,5 @@ Este script é fornecido apenas para fins educacionais e não deve ser usado de 
 
 Se você tiver alguma dúvida ou precisar de suporte, sinta-se à vontade para entrar em contato:
 
-- Autor: [Seu Nome]
-- Email: [seu-email@example.com]
-- GitHub: [Seu Perfil do GitHub]
+- Autor: [dougkalash]
+- GitHub: [dougkalash]

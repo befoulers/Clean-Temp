@@ -1,0 +1,22 @@
+ABRIR EMULADOR
+ABRIR A PASTA DO CHECKER
+ABRIR A PASTA INPUT
+ABRIR O DIRETORIO DA PASTA INPUT COM CMD
+DIGITAR NO DIRETORIO:
+adb root
+adb push frida /data/local/tmp/
+adb shell "chmod 755 /data/local/tmp/frida"
+adb shell "/data/local/tmp/frida &"
+DIGITAR NA PASTA PRINCIPAL node index.js
+
+(FECHAR ADB)
+ADB kill-server
+
+(INICIAR SERVER ADB)
+adb forward tcp:27042 tcp:27042
+adb forward tcp:27043 tcp:27043
+ADB start-server
+
+(INSTAL ADB COM CHOCO)
+choco install adb
+choco install universal-adb-drivers

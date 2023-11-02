@@ -36,7 +36,7 @@ if '%errorlevel%' NEQ '0' (
 :gotAdmin
     pushd "%CD%"
     CD /D "%~dp0"
-title Cleaner v8.0 (By DouG) - github.com/DGS1337
+title Cleaner v8.0 (By DouG) - github.com/dougkalash
 cls
 echo.
 echo.

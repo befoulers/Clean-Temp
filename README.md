@@ -31,7 +31,7 @@ Contribuições são bem-vindas! Se você encontrar algum problema, tiver alguma
 
 ## Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+Este projeto está licenciado sob a [MIT License](https://github.com/dougkalash/Clean-Temp/blob/main/LICENSE.txt).
 
 ## Aviso Legal
 

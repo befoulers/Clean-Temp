@@ -30,7 +30,7 @@ O menu possui as seguintes funcionalidades:
 - **Informações do sistema:** Esta função usa o comando `systeminfo` para exibir informações detalhadas sobre o seu computador.
 
 # 5. **HIGH PRIORITY ou Alta Prioridade**:
-- **Define a prioridade do processo atual como alta.
+- **Define a prioridade do processo atual como alta**.
 
 
 ## Como Utilizar

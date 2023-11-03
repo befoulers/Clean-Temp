@@ -1,3 +1,5 @@
+![](/temp/preview.png)
+
 # Menu de Sistema
 
 Este é um simples menu de sistema em formato de script batch que oferece algumas opções para executar comandos no Windows. 
